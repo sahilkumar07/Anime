@@ -1,6 +1,7 @@
 # animeapp
 
-A new Flutter project.
+This app is made for the assignment given by Ghackk Technologies.This app fetch data from API and display it on the user friendly interface,it also
+provide option for the users to save favourite anime.
 
 ## Getting Started
 
